@@ -7,7 +7,7 @@
     <GroundOverlay>
       <visibility>1</visibility>
       <Icon>
-	<href>paco_htp_20250313.png</href>
+	<href>https://raw.githubusercontent.com/zunimc/assets/refs/heads/main/paco_htp_20250313.png</href>
       </Icon>
       <LatLonBox id="0">
 	<west>100</west>
