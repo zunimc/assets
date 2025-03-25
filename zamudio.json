@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zamudio",
+        "description": "Marcador en Zamudio, España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.8668, 43.2912]
+      }
+    }
+  ]
+}
