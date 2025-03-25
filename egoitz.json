@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-99.155, 19.428],
+            [-99.125, 19.428],
+            [-99.125, 19.439],
+            [-99.155, 19.439],
+            [-99.155, 19.428]
+          ]
+        ]
+      },
+      "properties": {
+        "image_url": "https://raw.githubusercontent.com/zunimc/assets/refs/heads/main/paco_htp_20250313.png",
+        "image_bounds": [
+          [19.428, -99.155],
+          [19.439, -99.125]
+        ]
+      }
+    }
+  ]
+}
