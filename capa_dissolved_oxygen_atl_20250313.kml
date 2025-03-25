@@ -3,11 +3,10 @@
   <Folder>
     <visibility>1</visibility>
     <name>ZUNIBAL DISSOLVED_OXYGEN 20250313</name>
-<!--    <description>TITULO</description> -->
     <GroundOverlay>
       <visibility>1</visibility>
       <Icon>
-	<href>atl_dissolved_oxygen_20250313.png</href>
+	<href>https://raw.githubusercontent.com/zunimc/assets/refs/heads/main/atl_dissolved_oxygen_20250313.png</href>
       </Icon>
       <LatLonBox id="0">
 	<west>-70</west>
