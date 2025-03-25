@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Folder>
+    <visibility>1</visibility>
+    <name>ZUNIBAL DISSOLVED_OXYGEN 20250313</name>
+<!--    <description>TITULO</description> -->
+    <GroundOverlay>
+      <visibility>1</visibility>
+      <Icon>
+	<href>atl_dissolved_oxygen_20250313.png</href>
+      </Icon>
+      <LatLonBox id="0">
+	<west>-70</west>
+	<south>-90</south>
+	<east>30</east>
+	<north>90</north>
+	<rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>
+
