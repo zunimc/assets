@@ -1,26 +1,26 @@
 {
-  "type": "FeatureCollection",
-  "name": "ZUNIBAL HTP 20250313",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ZUNIBAL HTP 20250313",
-        "image_href": "https://raw.githubusercontent.com/zunimc/assets/refs/heads/main/paco_htp_20250313.png",
-        "rotation": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [180.0, 70.0],
-            [100.0, 70.0],
-            [100.0, -90.0],
-            [180.0, -90.0],
-            [180.0, 70.0]
-          ]
-        ]
-      }
-    }
-  ]
+   "type": "FeatureCollection",
+   "name": "ZUNIBAL HTP 20250313",
+   "features": [
+     {
+       "type": "Feature",
+       "properties": {
+         "name": "ZUNIBAL HTP 20250313",
+         "image_href": "https://raw.githubusercontent.com/zunimc/assets/refs/heads/main/paco_htp_20250313.png",
+         "rotation": 0
+       },
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [180.0, 90.0],
+             [100.0, 90.0],
+             [100.0, -90.0],
+             [180.0, -90.0],
+             [180.0, 90.0]
+           ]
+         ]
+       }
+     }
+   ]
 }
